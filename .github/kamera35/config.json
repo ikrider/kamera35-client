@@ -1,0 +1,10 @@
+{
+  "app_name": "Kamera35",
+  "display_name": "Камера35",
+  "server": "rust.techline.cc",
+  "relay": "rust.techline.cc",
+  "public_key": "25kidpPDyok3dWp+Y7uYu4MNGcurc5uxyA71RFAcm2M=",
+  "brand_reference": "https://m660c50ff9dbd1.lpmotortest.com/",
+  "rustdesk_version": "1.4.9",
+  "rustdesk_commit": "6c578292e8ebbbec708b76986ba8c4bc7c509747"
+}
